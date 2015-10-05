@@ -25,7 +25,7 @@ You should now be able to reach Grafana at [http://localhost:3003/](http://local
 
 From now on, the application should respond at [http://localhost:8080/](http://localhost:8080/) with a hundred of random strings.
 
-To run second instance in parralel just type:
+To run second instance in parallel just type:
 
 `mvn spring-boot:run -Dspring.profiles.active=development`
 
