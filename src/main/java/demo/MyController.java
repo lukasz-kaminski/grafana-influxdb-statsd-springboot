@@ -10,9 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by lk on 04.10.15.
- */
 @Controller
 public class MyController {
     private SecureRandom random = new SecureRandom();

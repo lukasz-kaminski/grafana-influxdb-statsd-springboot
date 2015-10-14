@@ -26,4 +26,4 @@ public class MetricsConfig {
         metricRegistry.register("jvm.thread-states",new ThreadStatesGaugeSet());
         return metricRegistry;
     }
-    }
+}
